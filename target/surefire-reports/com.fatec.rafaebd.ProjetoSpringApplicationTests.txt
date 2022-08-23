@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.fatec.rafaebd.ProjetoSpringApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.859 s - in com.fatec.rafaebd.ProjetoSpringApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.552 s - in com.fatec.rafaebd.ProjetoSpringApplicationTests
