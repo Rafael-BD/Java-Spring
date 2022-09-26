@@ -1,3 +1,15 @@
-/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/repository/UsuarioRepository.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/controller/LoginController.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/security/Login.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/security/SecurityConfig.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/services/segurancaServiceImpl.java
 /workspace/Java-Spring/src/main/java/com/fatec/rafaebd/ProjetoSpringApplication.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/repository/AutorizacaoRepository.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/controller/UsuarioController.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/security/JwtUtils.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/services/segurancaService.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/entity/Anotacao.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/controller/MainController.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/entity/Autorizacao.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/repository/UsuarioRepository.java
 /workspace/Java-Spring/src/main/java/com/fatec/rafaebd/entity/Usuario.java
+/workspace/Java-Spring/src/main/java/com/fatec/rafaebd/security/JwtAuthenticationFilter.java
