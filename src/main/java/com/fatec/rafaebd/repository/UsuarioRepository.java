@@ -18,7 +18,7 @@ public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
   
     public List<Usuario> findByAutorizacoesNome(String autorizacao);
   
-    @Query("select us from Usuario us join us.autorizacoes au where au.nome = ?1")
+    @Query("select us from Usuario us join us.autorizacoes au where au.nome < ?1")
     public List<Usuario> buscarPorAutorizacao(String autorizacao);
       
   }
